@@ -73,6 +73,20 @@
 </section>
 
 <section class="section">
+  <div class="section-title">
+    <h2>Why we do it better.</h2>  
+  </div>
+
+  <div class="section-content">
+    <h2>Intro Title</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum <a href="">itaque</a> nam magnam quo suscipit! Doloremque ex facilis magni autem et amet similique, fugit rem, reiciendis at veritatis, error illo fugiat?</p>
+    <p>Lorem ipsum dolor sit amet <strong>consectetur</strong>, adipisicing elit. Et quod aut cum fuga id fugit blanditiis, similique eaque voluptas rerum nobis distinctio perspiciatis earum maxime ex. Fuga consequuntur deleniti rerum? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia nisi ab doloribus voluptatum eius! Delectus, facilis odio, vel ab blanditiis sint nesciunt nam incidunt quis magnam dolore repudiandae minus! Quod.</p>
+    <h3>Title Here</h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et quod aut cum fuga id fugit blanditiis, similique eaque voluptas rerum nobis distinctio perspiciatis <a href="">earum</a> maxime ex. Fuga consequuntur deleniti rerum? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia nisi ab doloribus voluptatum eius! Delectus, facilis odio, vel ab blanditiis sint nesciunt nam incidunt quis magnam dolore repudiandae minus! Quod.</p>
+  </div>
+</section>
+
+<section class="section">
   <div class="side-by-side">
     <figure class="side-by-side-image"></figure>
     <div class="side-by-side-text">
